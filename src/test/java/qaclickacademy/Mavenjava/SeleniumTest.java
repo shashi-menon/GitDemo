@@ -9,6 +9,8 @@ public class SeleniumTest {
 	@Test(enabled=false)
 	public void browserAutomation() {
 		System.out.println("This is browser automation test");
+		//Added by GitDemo user
+		System.out.println("PostJira");
 	}
 	
 	@Test(groups={"Smoke"})
