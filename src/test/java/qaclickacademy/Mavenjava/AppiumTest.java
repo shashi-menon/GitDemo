@@ -14,5 +14,8 @@ public class AppiumTest {
 	@Test
 	public void osTest() {
 		System.out.println("This is OS test");
+		
+		//Added by GitDemo user in develop branch
+		System.out.println("Added in develop branch by GitDemo user");
 	}
 }
