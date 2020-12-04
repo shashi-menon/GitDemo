@@ -1,0 +1,18 @@
+package qaclickacademy.Mavenjava;
+
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+import org.testng.annotations.Test;
+
+public class AppiumTest {
+	
+	@Test
+	public void androidTest() {
+		System.out.println("This is Android test");
+	}
+	
+	@Test
+	public void osTest() {
+		System.out.println("This is OS test");
+	}
+}
