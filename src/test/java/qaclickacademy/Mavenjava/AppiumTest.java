@@ -17,5 +17,8 @@ public class AppiumTest {
 		
 		//Added by GitDemo user in develop branch
 		System.out.println("Added in develop branch by GitDemo user");
+		
+		//Added by GitX user in develop branch
+		System.out.println("Added in develop branch by GitX user");
 	}
 }
